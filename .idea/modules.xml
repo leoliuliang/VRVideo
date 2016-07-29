@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PonoramaAPP.iml" filepath="$PROJECT_DIR$/PonoramaAPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/module.iml" filepath="$PROJECT_DIR$/module/module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/r/r.iml" filepath="$PROJECT_DIR$/module/r/r.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/rcb/rcb.iml" filepath="$PROJECT_DIR$/module/rcb/rcb.iml" />
+    </modules>
+  </component>
+</project>
